@@ -3,7 +3,7 @@
   "identifier": "com.nataiX.altstore",
   "subtitle": "iPhone同士のテザリングを強力にキープ",
   "description": "接続が切れがちなiPhone同士のテザリングを強力にキープするアプリです。\n・テザリング切断アラート機能\n・位置情報変化アラート機能\n・7カ国語対応",
-  "iconURL": "https://nataiX-app.github.io/altstore-repo/f6ab1397-e199-4831-a582-79523ce46194/icon.png",
+  "iconURL": "https://nataiX-app.github.io/altstore-repo/icon-1024.png",
   "headerURL": "",
   "website": "",
   "tintColor": "007AFF",
@@ -14,7 +14,7 @@
       "developerName": "nataiX",
       "subtitle": "iPhone同士のテザリングを強力にキープ",
       "localizedDescription": "接続が切れがちなiPhone同士のテザリングを強力にキープするアプリです。\n・テザリング切断アラート機能\n・位置情報変化アラート機能\n・7カ国語対応",
-      "iconURL": "https://nataiX-app.github.io/altstore-repo/f6ab1397-e199-4831-a582-79523ce46194/icon.png",
+      "iconURL": "https://nataiX-app.github.io/altstore-repo/icon-1024.png",
       "tintColor": "007AFF",
       "versions": [
         {
