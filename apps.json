@@ -12,7 +12,7 @@
       "marketplaceID": "6805736488",
       "developerName": "nataiX",
       "subtitle": "Keep unstable tethering connected between iPhones",
-      "localizedDescription": "Keep unstable tethering connected between iPhones\n・Tethering disconnect alert\n・Location change alert\n・Supports 7 languages (English, French, Spanish, German, Italian, Chinese, Japanese)\n*This app does not guarantee 100% performance, as iOS may forcibly stop tethering due to device battery levels or overheating.\n\n-------------------------\n\n接続が切れがちなiPhone同士のテザリングを強力にキープするアプリです。\n・テザリング切断アラート機能\n・位置情報変化アラート機能\n・7カ国語対応",
+      "localizedDescription": "Keep unstable tethering connected between iPhones\n・Tethering disconnect alert\n・Location change alert\n・Supports 7 languages (English, French, Spanish, German, Italian, Chinese, Japanese)\n*This app does not guarantee 100% performance, as iOS may forcibly stop tethering due to device battery levels or overheating.\n\nIf you like this app, please consider supporting the developer!\nhttps://buymeacoffee.com/nataiX\n\n-------------------------\n\n接続が切れがちなiPhone同士のテザリングを強力にキープするアプリです。\n・テザリング切断アラート機能\n・位置情報変化アラート機能\n・7カ国語対応\n\nアプリを気に入っていただけましたら、ぜひ開発者の支援をお願いいたします！\nhttps://buymeacoffee.com/nataiX",
       "iconURL": "https://nataix-app.github.io/altstore-repo/icon-1024.png",
       "tintColor": "007AFF",
       "versions": [
@@ -20,7 +20,7 @@
           "version": "1.1",
           "buildVersion": "13",
           "date": "2026-08-29",
-          "localizedDescription": "初回リリース / Initial Release",
+          "localizedDescription": "Initial Release / 初回リリース",
           "downloadURL": "https://nataix-app.github.io/altstore-repo/f6ab1397-e199-4831-a582-79523ce46194/manifest.json",
           "size": 0
         }
