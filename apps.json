@@ -18,6 +18,7 @@
       "versions": [
         {
           "version": "1.1",
+          "buildVersion": "13",
           "date": "2026-08-29",
           "localizedDescription": "初回リリース",
           "downloadURL": "https://nataix-app.github.io/altstore-repo/f6ab1397-e199-4831-a582-79523ce46194/manifest.json",
