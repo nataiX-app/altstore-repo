@@ -9,6 +9,7 @@
     {
       "name": "KeepTether",
       "bundleIdentifier": "com.nataix.keeptether",
+      "marketplaceID": "6805736488",
       "developerName": "nataiX",
       "subtitle": "iPhone同士のテザリングを強力にキープ",
       "localizedDescription": "接続が切れがちなiPhone同士のテザリングを強力にキープするアプリです。\n・テザリング切断アラート機能\n・位置情報変化アラート機能\n・7カ国語対応",
