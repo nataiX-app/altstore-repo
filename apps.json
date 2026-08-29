@@ -15,6 +15,12 @@
       "localizedDescription": "接続が切れがちなiPhone同士のテザリングを強力にキープするアプリです。\n・テザリング切断アラート機能\n・位置情報変化アラート機能\n・7カ国語対応",
       "iconURL": "https://nataix-app.github.io/altstore-repo/icon-1024.png",
       "tintColor": "007AFF",
+      "localizations": {
+        "en-US": {
+          "subtitle": "Keep unstable tethering connected between iPhones",
+          "localizedDescription": "Keep unstable tethering connected between iPhones\n・Tethering disconnect alert\n・Location change alert\n・Supports 7 languages (English, French, Spanish, German, Italian, Chinese, Japanese)\n*This app does not guarantee 100% performance, as iOS may forcibly stop tethering due to device battery levels or overheating."
+        }
+      },
       "versions": [
         {
           "version": "1.1",
